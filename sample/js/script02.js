@@ -1,4 +1,4 @@
-$(fanction(){
+$(function(){
 
     let txt1="おはようございます！"
     let txt2="お元気ですか？"
