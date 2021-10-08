@@ -25,4 +25,4 @@ $(function(){
         $("#content").text(num1+"たす"+num2+"は"+(num1+num2)+"です");
     })
 
-})
+});
