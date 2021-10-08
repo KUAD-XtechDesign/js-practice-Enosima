@@ -6,7 +6,7 @@ $(fanction(){
     let num2=32
 
     $("#button01").on("click",function(){
-        $("#content").text("#こんにちは!");
+        $("#content").text("こんにちは!");
     })
 
     $("#button02").on("click",function(){
